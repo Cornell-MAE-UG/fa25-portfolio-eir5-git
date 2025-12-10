@@ -3,7 +3,7 @@ layout: default
 title: <Your Name>
 ---
 
-## About Me
+## Emily Radzio
 
 
 <img src="assets/images/headshot.jpeg" width="300" style="border-radius: 15px;">
