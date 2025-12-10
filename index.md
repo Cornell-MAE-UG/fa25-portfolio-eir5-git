@@ -6,7 +6,8 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/headshot.jpeg" | relative_url }}){: class="profile-image"}
+![My Profile Photo](headshot.jpeg)
+
 
  
 My name is {{ site.name }}, and I am a junior Mechanical Engineering student at Cornell University. 
