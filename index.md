@@ -12,6 +12,3 @@ title: Emily Radzio
 My name is {{ site.name }}, and I am a junior Mechanical Engineering student at Cornell University. 
 
 <a href="{{ "/projects/" | relative_url }}">projects</a> and <a href="{{ '/assets/CV.pdf' | relative_url }}">CV</a>
-
-[Download my CV](assets/CV.pdf)
-
