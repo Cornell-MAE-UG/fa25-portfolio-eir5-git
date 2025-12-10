@@ -6,8 +6,7 @@ title: <Your Name>
 ## About Me
 
 
-![My Profile Photo](headshot.jpeg)
-
+<img src="headshot.jpg" alt="Profile photo" width="300" style="border-radius: 15px;">
 
  
 My name is {{ site.name }}, and I am a junior Mechanical Engineering student at Cornell University. 
