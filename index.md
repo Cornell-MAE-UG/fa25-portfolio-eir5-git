@@ -18,3 +18,5 @@ https://docs.google.com/document/d/1GH-q9FvwmCKC8tI577cg_OIOfmfOp1CDzxfgw4g2Fck/
 
 mae3260 final project:
 https://docs.google.com/document/d/1x-uDkpmyJwuGSqcEWVEAMh2Ag21nilgvKuXpTRCBeFk/edit?usp=sharing
+
+mae3230 FMD video
